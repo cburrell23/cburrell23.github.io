@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background-image: url(arialteashot.jpg);
+  background-image: url("arialteashot.jpg");
   background-size: cover;
   color: #FFFFFF;
   font-family: Helvetica;
