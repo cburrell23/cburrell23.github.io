@@ -1,11 +1,12 @@
-h1, h3{
-  text-align: center;
+body{
   background-image: url("../images/teashot.jpg");
   background-size: cover;
   color: #FFFFFF;
   font-family: Helvetica;
 }
-ul{left: 
+h1{
+	text-align: center;
+	color: #FFFFFF;
 }
 hr{
   width: 200px;
