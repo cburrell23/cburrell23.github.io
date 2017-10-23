@@ -2,14 +2,14 @@ header{
   text-align: center;
   background-image: url("../images/teashot.jpg");
   background-size: cover;
-  padding bottom: : 200px
-  color: #FFFFFF;
+  padding bottom: : 1000px
+  color: #fdfcfe;
   font-family: Helvetica;
 }
 body{
 	text-align: left;
  
-  color: #f3941c;
+  color: #ffdb22;
   font-family: Helvetica;
 
 }
