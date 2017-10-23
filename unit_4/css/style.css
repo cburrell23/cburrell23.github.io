@@ -1,5 +1,5 @@
 header{
-  text-align: center;
+  text-align: left;
   color: #080808;
   font-family: Helvetica;
 }
@@ -11,12 +11,13 @@ body{
 
 }
 hr{
-  width: 200px;
+  width: 1000px;
 }
 p{
-  font-size: 20px;
+  font-size: 35px;
 }
 a{
   font-weight: bold;
   font-size: 25px
+  color:#080808;
 }
