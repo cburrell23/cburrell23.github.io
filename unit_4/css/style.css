@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-image: url("../images/teashot.jpg");
+  background-size: cover;
+  color: #ffdb24;
+  font-family: Helvetica;
+}
+hr{
+  width: 200px;
+}
+p{
+  font-size: 20px;
+}
+a{
+  font-weight: bold;
+  font-size: 25px
+}
