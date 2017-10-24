@@ -32,3 +32,11 @@ a{
   text-decoration: none;
 
 }
+main{
+	padding: 35px;
+}
+
+footer{
+	background-color: #ffdb22;
+	padding: 35px;
+}
