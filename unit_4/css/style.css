@@ -9,6 +9,7 @@ body{
  	color: #ffdb22;
   	font-family: Helvetica, Arial, sans-serif;
   	font-size: 25px;
+  	line-height: 1.5px
 
 nav{
 	font-style: italic;
@@ -33,9 +34,11 @@ a{
 }
 main{
 	padding: 35px;
+	line-height: 1.5px
 }
 
 footer{
 	background-color: #ffdb22;
 	padding: 35px;
+	color: #FFFFFF
 }
