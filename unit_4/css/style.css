@@ -2,14 +2,15 @@ header{
   text-align: left;
   color: #222222;
   font-family: Helvetica;
-  padding: 100px;
+  padding: 50px;
 }
 body{
 	text-align: left;
  	color: #ffdb22;
   	font-family: Helvetica, Arial, sans-serif;
   	font-size: 25px;
-  	line-height: 1.5px
+  	line-height: 1.5px;
+  	padding: 20px;
 
 nav{
 	font-style: italic;
@@ -27,18 +28,18 @@ p{
 }
 a{
   font-weight: bold;
-  font-size: 25px
+  font-size: 25px;
   color: inherit;
   text-decoration: none;
 
 }
 main{
-	padding: 35px;
-	line-height: 1.5px
+	padding: 20px;
+	line-height: 1.5px;
 }
 
 footer{
 	background-color: #ffdb22;
-	padding: 35px;
-	color: #FFFFFF
+	padding: 20px;
+	color: #FFFFFF;
 }
