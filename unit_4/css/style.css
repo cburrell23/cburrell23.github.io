@@ -2,13 +2,14 @@ header{
   text-align: left;
   color: #222222;
   font-family: Helvetica;
+  padding: 45px;
 }
 body{
 	text-align: left;
  	color: #ffdb22;
   	font-family: Helvetica, Arial, sans-serif;
   	font-size: 25px;
-  	line-height: 1.3pt;
+  	line-height: 1.5pt;
 
 nav a{
 	font-style: italic;
