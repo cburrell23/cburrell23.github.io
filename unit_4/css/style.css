@@ -4,12 +4,14 @@ body{
   background-size: cover;
   color: #FFFFFF;
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 hr{
   width: 950px;
 }
 p{
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 a{
   font-weight: bold;
