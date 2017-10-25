@@ -2,13 +2,13 @@ body{
   text-align: center;
   background-image: url('../images/teashot.jpg');
   background-size: cover;
-  color: #FFFFFF
   font-family: 'Montserrat', sans-serif;
 }
 hr{
   width: 800px;
 }
 p{
+  color: #FFFFFF;
   font-family: 'Montserrat', sans-serif;
 }
 a{
@@ -16,8 +16,10 @@ a{
   font-size: 25px;
 }
 h1{
+	color: #FFFFFF;
 	font-family: 'Montserrat', sans-serif;}
 h3{
+	color: #FFFFFF;
 	font-family: 'Norican', cursive;
 
 }
