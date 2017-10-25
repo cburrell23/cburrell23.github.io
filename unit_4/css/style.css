@@ -2,7 +2,7 @@ body{
   text-align: center;
   background-image: url('../images/teashot.jpg');
   background-size: cover;
-  color: #FFFFFF
+  color: #ffffff
   font-family: 'Montserrat', sans-serif;
 }
 hr{
@@ -18,6 +18,6 @@ a{
 h1{
 	font-family: 'Montserrat', sans-serif;}
 h3{
-	font-family: 'Gilda Display', serif;
+	font-family: 'Norican', cursive;;
 
 }
