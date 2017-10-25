@@ -2,13 +2,13 @@ body{
   text-align: center;
   background-image: url('../images/teashot.jpg');
   background-size: cover;
-  color: #FFFFFF;
+  color: #FFFFFF
+  font-family: 'Montserrat', sans-serif;
 }
 hr{
   width: 800px;
 }
 p{
-  font-size: 45px
   font-family: 'Montserrat', sans-serif;
 }
 a{
