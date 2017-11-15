@@ -28,22 +28,23 @@ article {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
-    float: left;
-    width: 30%;
+
 }
 
 #left {
     background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
-    float: right;
-    width: 62%;
+    float: left;
+    width: 30%;
 }
 
 #right {
     background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
+    float: right;
+    width: 62%;
 }
 
 footer {
